@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Archundia</h1>
-<h3 align="center">Bionics Engineer from Mexico City</h3>
+<h3 align="center">Bionics Engineer from Mexico </h3>
 
 - 🔭 I’m currently working on [Robot Assisted Laparoscopic Procedures with WebXR](https://github.com/Aaronarch5/TrabajoTerminalBionica2024)
 
